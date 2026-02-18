@@ -14,6 +14,8 @@ from urllib.request import Request, urlopen
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 from pydantic import BaseModel
 import sys
 
@@ -586,6 +588,39 @@ async def get_complete_feature_guide():
         }
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+# ============================================================================
+# STATIC FILES & SPA ROUTING (serve front end)
+# ============================================================================
+
+# Mount static files
+static_dir = Path(__file__).parent.parent.parent / 'frontend' / 'static'
+if static_dir.exists():
+    app.mount("/static", StaticFiles(directory=str(static_dir)), name="static")
+
+# Serve index.html for all non-API routes (SPA routing)
+frontend_templates_dir = Path(__file__).parent.parent.parent / 'frontend' / 'templates'
+index_html = frontend_templates_dir / 'index.html'
+
+@app.get("/{full_path:path}")
+async def serve_frontend(full_path: str):
+    """Serve index.html for all non-API routes"""
+    if full_path.startswith('api/'):
+        # This shouldn't reach here since /api routes are handled above
+        raise HTTPException(status_code=404, detail="API route not found")
+    
+    if index_html.exists():
+        return FileResponse(str(index_html))
+    raise HTTPException(status_code=404, detail="Frontend not found")
+
+# Serve index.html at root
+@app.get("/")
+async def serve_root():
+    """Serve the frontend root"""
+    if index_html.exists():
+        return FileResponse(str(index_html))
+    raise HTTPException(status_code=404, detail="Frontend not found")
 
 
 if __name__ == "__main__":
