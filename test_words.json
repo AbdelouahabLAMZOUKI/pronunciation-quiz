@@ -1,0 +1,3683 @@
+[
+  {
+    "text": "tandon",
+    "clip_id": "clip3",
+    "syllables": [
+      "T AE1",
+      "N D AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "tae1ndah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "medicus",
+    "clip_id": "clip1",
+    "syllables": [
+      "M EH1",
+      "D IH0",
+      "K AH0",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "meh1dih0kah0s",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "tweedie",
+    "clip_id": "clip7",
+    "syllables": [
+      "T W IY1",
+      "D IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "twiy1diy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "stettler",
+    "clip_id": "clip7",
+    "syllables": [
+      "S T EH1",
+      "T L ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "steh1tler0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "weavings",
+    "clip_id": "clip8",
+    "syllables": [
+      "W IY1",
+      "V IH0",
+      "NG Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wiy1vih0ngz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "motzko",
+    "clip_id": "clip4",
+    "syllables": [
+      "M AA1",
+      "T S K OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "maa1tskow0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "brosh",
+    "clip_id": "clip10",
+    "syllables": [
+      "B R AA1",
+      "SH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "braa1sh",
+    "feature_id": "stress"
+  },
+  {
+    "text": "neoteny",
+    "clip_id": "clip3",
+    "syllables": [
+      "N IY0",
+      "AA1",
+      "T AH0",
+      "N IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "niy0aa1tah0niy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "leubert",
+    "clip_id": "clip10",
+    "syllables": [
+      "L UW1",
+      "B ER0",
+      "T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "luw1ber0ts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "basford",
+    "clip_id": "clip9",
+    "syllables": [
+      "B AE1",
+      "S F ER0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bae1sfer0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "dansforth",
+    "clip_id": "clip2",
+    "syllables": [
+      "D AE1",
+      "N S F AO1",
+      "R TH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dae1nsfao1rth",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "salley",
+    "clip_id": "clip1",
+    "syllables": [
+      "S AE1",
+      "L IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sae1liy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "sailboat",
+    "clip_id": "clip10",
+    "syllables": [
+      "S EY1",
+      "L B OW2",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sey1lbow2t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "penises",
+    "clip_id": "clip3",
+    "syllables": [
+      "P IY1",
+      "N IH0",
+      "S IH0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "piy1nih0sih0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "shrift",
+    "clip_id": "clip4",
+    "syllables": [
+      "SH R IH1",
+      "F T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "shrih1ft",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "underprice",
+    "clip_id": "clip1",
+    "syllables": [
+      "AH1",
+      "N D ER0",
+      "P R AY2",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah1nder0pray2s",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "waster",
+    "clip_id": "clip2",
+    "syllables": [
+      "W EY1",
+      "S T ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wey1ster0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "nation",
+    "clip_id": "clip3",
+    "syllables": [
+      "N EY1",
+      "SH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ney1shah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "enlarge",
+    "clip_id": "clip1",
+    "syllables": [
+      "EH0",
+      "N L AA1",
+      "R JH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "eh0nlaa1rjh",
+    "feature_id": "stress"
+  },
+  {
+    "text": "consistence",
+    "clip_id": "clip1",
+    "syllables": [
+      "K AH0",
+      "N S IH1",
+      "S T AH0",
+      "N S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kah0nsih1stah0ns",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "circulates",
+    "clip_id": "clip7",
+    "syllables": [
+      "S ER1",
+      "K Y AH0",
+      "L EY2",
+      "T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ser1kyah0ley2ts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "heekin",
+    "clip_id": "clip8",
+    "syllables": [
+      "HH IY1",
+      "K IH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhiy1kih0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "craigie",
+    "clip_id": "clip4",
+    "syllables": [
+      "K R EY1",
+      "G IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "krey1giy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "wark",
+    "clip_id": "clip7",
+    "syllables": [
+      "W AO1",
+      "R K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wao1rk",
+    "feature_id": "stress"
+  },
+  {
+    "text": "bat",
+    "clip_id": "clip5",
+    "syllables": [
+      "B AE1",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bae1t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "dirocco",
+    "clip_id": "clip1",
+    "syllables": [
+      "D IH0",
+      "R AA1",
+      "K OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dih0raa1kow0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "kowitz",
+    "clip_id": "clip5",
+    "syllables": [
+      "K AA1",
+      "W IH0",
+      "T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kaa1wih0ts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "weighs",
+    "clip_id": "clip2",
+    "syllables": [
+      "W EY1",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wey1z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "damitz",
+    "clip_id": "clip10",
+    "syllables": [
+      "D AE1",
+      "M IH0",
+      "T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dae1mih0ts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "meteorology",
+    "clip_id": "clip3",
+    "syllables": [
+      "M IY2",
+      "T IY0",
+      "ER0",
+      "AA1",
+      "L AH0",
+      "JH IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "miy2tiy0er0aa1lah0jhiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "eldridge",
+    "clip_id": "clip5",
+    "syllables": [
+      "EH1",
+      "L D R IH2",
+      "JH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "eh1ldrih2jh",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "mathers",
+    "clip_id": "clip6",
+    "syllables": [
+      "M AE1",
+      "DH ER0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mae1dher0z",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "seaquist",
+    "clip_id": "clip6",
+    "syllables": [
+      "S IY1",
+      "K W IH2",
+      "S T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "siy1kwih2st",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "wackos",
+    "clip_id": "clip9",
+    "syllables": [
+      "W AE1",
+      "K OW0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wae1kow0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "ecological",
+    "clip_id": "clip4",
+    "syllables": [
+      "IY0",
+      "K AH0",
+      "L AA1",
+      "JH IH0",
+      "K AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "iy0kah0laa1jhih0kah0l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "deflationary",
+    "clip_id": "clip10",
+    "syllables": [
+      "D IH0",
+      "F L EY1",
+      "SH AH0",
+      "N EH2",
+      "R IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dih0fley1shah0neh2riy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "gunrunner",
+    "clip_id": "clip2",
+    "syllables": [
+      "G AH1",
+      "N R AH2",
+      "N ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "gah1nrah2ner0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "fusible",
+    "clip_id": "clip2",
+    "syllables": [
+      "F Y UW1",
+      "Z AH0",
+      "B AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "fyuw1zah0bah0l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "rosenshine",
+    "clip_id": "clip9",
+    "syllables": [
+      "R OW1",
+      "Z AH0",
+      "N SH AY2",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "row1zah0nshay2n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "needful",
+    "clip_id": "clip3",
+    "syllables": [
+      "N IY1",
+      "D F AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "niy1dfah0l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "afghan",
+    "clip_id": "clip2",
+    "syllables": [
+      "AE1",
+      "F G AE2",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ae1fgae2n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "croce",
+    "clip_id": "clip4",
+    "syllables": [
+      "K R OW1",
+      "CH IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "krow1chiy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "preconceive",
+    "clip_id": "clip7",
+    "syllables": [
+      "P R IY2",
+      "K AH0",
+      "N S IY1",
+      "V"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "priy2kah0nsiy1v",
+    "feature_id": "stress"
+  },
+  {
+    "text": "psychopath",
+    "clip_id": "clip9",
+    "syllables": [
+      "S AY1",
+      "K OW0",
+      "P AE2",
+      "TH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "say1kow0pae2th",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "steuber",
+    "clip_id": "clip10",
+    "syllables": [
+      "S T OY1",
+      "B ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "stoy1ber0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "yablon",
+    "clip_id": "clip2",
+    "syllables": [
+      "Y AE1",
+      "B L AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "yae1blah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "presupposes",
+    "clip_id": "clip2",
+    "syllables": [
+      "P R IY2",
+      "S AH0",
+      "P OW1",
+      "Z IH0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "priy2sah0pow1zih0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "pentecost",
+    "clip_id": "clip3",
+    "syllables": [
+      "P EH1",
+      "N T AH0",
+      "K AO2",
+      "S T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "peh1ntah0kao2st",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "noncash",
+    "clip_id": "clip3",
+    "syllables": [
+      "N AA1",
+      "N K AE1",
+      "SH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "naa1nkae1sh",
+    "feature_id": "stress"
+  },
+  {
+    "text": "sacca",
+    "clip_id": "clip10",
+    "syllables": [
+      "S AE1",
+      "K AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sae1kah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "kohtoro",
+    "clip_id": "clip8",
+    "syllables": [
+      "K OW0",
+      "T AO1",
+      "R OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kow0tao1row0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "plows",
+    "clip_id": "clip7",
+    "syllables": [
+      "P L AW1",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "plaw1z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "lionheart",
+    "clip_id": "clip9",
+    "syllables": [
+      "L AY1",
+      "AH0",
+      "N HH AA2",
+      "R T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lay1ah0nhhaa2rt",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "destiny",
+    "clip_id": "clip4",
+    "syllables": [
+      "D EH1",
+      "S T AH0",
+      "N IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "deh1stah0niy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "titone",
+    "clip_id": "clip10",
+    "syllables": [
+      "T IH1",
+      "T AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "tih1tah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "worthington",
+    "clip_id": "clip8",
+    "syllables": [
+      "W ER1",
+      "DH IH0",
+      "NG T AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wer1dhih0ngtah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "winnetka",
+    "clip_id": "clip4",
+    "syllables": [
+      "W IH0",
+      "N EH1",
+      "T K AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wih0neh1tkah0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "gaustad",
+    "clip_id": "clip9",
+    "syllables": [
+      "G AW1",
+      "S T AH0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "gaw1stah0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "corp",
+    "clip_id": "clip10",
+    "syllables": [
+      "K AO1",
+      "R P"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kao1rp",
+    "feature_id": "stress"
+  },
+  {
+    "text": "negroes",
+    "clip_id": "clip1",
+    "syllables": [
+      "N IY1",
+      "G R OW0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "niy1grow0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "carstarphen",
+    "clip_id": "clip7",
+    "syllables": [
+      "K AA0",
+      "R S T AA1",
+      "R F AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kaa0rstaa1rfah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "zeeb",
+    "clip_id": "clip10",
+    "syllables": [
+      "Z IY1",
+      "B"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ziy1b",
+    "feature_id": "stress"
+  },
+  {
+    "text": "iannello",
+    "clip_id": "clip9",
+    "syllables": [
+      "IY0",
+      "AH0",
+      "N EH1",
+      "L OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "iy0ah0neh1low0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "idle",
+    "clip_id": "clip1",
+    "syllables": [
+      "AY1",
+      "D AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ay1dah0l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "refenes",
+    "clip_id": "clip2",
+    "syllables": [
+      "R EH1",
+      "F IH0",
+      "N EH2",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "reh1fih0neh2s",
+    "feature_id": "stress"
+  },
+  {
+    "text": "ponied",
+    "clip_id": "clip1",
+    "syllables": [
+      "P OW1",
+      "N IY0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pow1niy0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "hillenbrand",
+    "clip_id": "clip6",
+    "syllables": [
+      "HH IH1",
+      "L AH0",
+      "N B R AE2",
+      "N D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhih1lah0nbrae2nd",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "misreport",
+    "clip_id": "clip7",
+    "syllables": [
+      "M IH0",
+      "S R IH0",
+      "P AO1",
+      "R T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mih0srih0pao1rt",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "vietti",
+    "clip_id": "clip8",
+    "syllables": [
+      "V IY0",
+      "EH1",
+      "T IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "viy0eh1tiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "piette",
+    "clip_id": "clip1",
+    "syllables": [
+      "P IY1",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "piy1t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "erection",
+    "clip_id": "clip8",
+    "syllables": [
+      "IH0",
+      "R EH1",
+      "K SH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih0reh1kshah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "burnside",
+    "clip_id": "clip5",
+    "syllables": [
+      "B ER1",
+      "N S AY2",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ber1nsay2d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "younker",
+    "clip_id": "clip10",
+    "syllables": [
+      "Y AH1",
+      "NG K ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "yah1ngker0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "spratling",
+    "clip_id": "clip6",
+    "syllables": [
+      "S P R AE1",
+      "T L IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sprae1tlih0ng",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "wellendorf",
+    "clip_id": "clip2",
+    "syllables": [
+      "W EH1",
+      "L IH0",
+      "N D AO0",
+      "R F"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "weh1lih0ndao0rf",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "kraszewski",
+    "clip_id": "clip8",
+    "syllables": [
+      "K R AH0",
+      "SH EH1",
+      "F S K IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "krah0sheh1fskiy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "literati",
+    "clip_id": "clip4",
+    "syllables": [
+      "L IH2",
+      "T ER0",
+      "AA1",
+      "T IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lih2ter0aa1tiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "korologos",
+    "clip_id": "clip2",
+    "syllables": [
+      "K AO0",
+      "R AA2",
+      "L OW1",
+      "G OW0",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kao0raa2low1gow0s",
+    "feature_id": "stress"
+  },
+  {
+    "text": "cameras",
+    "clip_id": "clip8",
+    "syllables": [
+      "K AE1",
+      "M ER0",
+      "AH0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kae1mer0ah0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "stabbed",
+    "clip_id": "clip4",
+    "syllables": [
+      "S T AE1",
+      "B D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "stae1bd",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "trang",
+    "clip_id": "clip10",
+    "syllables": [
+      "T R AE1",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "trae1ng",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "nifong",
+    "clip_id": "clip6",
+    "syllables": [
+      "N IH1",
+      "F AO0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "nih1fao0ng",
+    "feature_id": "stress"
+  },
+  {
+    "text": "toppling",
+    "clip_id": "clip4",
+    "syllables": [
+      "T AA1",
+      "P AH0",
+      "L IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "taa1pah0lih0ng",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "mowdy",
+    "clip_id": "clip8",
+    "syllables": [
+      "M OW1",
+      "D IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mow1diy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "hardwood",
+    "clip_id": "clip6",
+    "syllables": [
+      "HH AA1",
+      "R D W UH2",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhaa1rdwuh2d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "jarara",
+    "clip_id": "clip4",
+    "syllables": [
+      "JH AH0",
+      "R AA1",
+      "R AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "jhah0raa1rah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "moccio",
+    "clip_id": "clip5",
+    "syllables": [
+      "M OW1",
+      "CH IY0",
+      "OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mow1chiy0ow0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "hayek",
+    "clip_id": "clip7",
+    "syllables": [
+      "HH EY1",
+      "IH0",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhey1ih0k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "vanishing",
+    "clip_id": "clip4",
+    "syllables": [
+      "V AE1",
+      "N IH0",
+      "SH IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "vae1nih0shih0ng",
+    "feature_id": "stress"
+  },
+  {
+    "text": "pleas",
+    "clip_id": "clip3",
+    "syllables": [
+      "P L IY1",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pliy1z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "incase",
+    "clip_id": "clip10",
+    "syllables": [
+      "IH0",
+      "N K EY1",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih0nkey1s",
+    "feature_id": "stress"
+  },
+  {
+    "text": "duckwall",
+    "clip_id": "clip7",
+    "syllables": [
+      "D AH1",
+      "K W AO2",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dah1kwao2l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "lafevers",
+    "clip_id": "clip9",
+    "syllables": [
+      "L AE1",
+      "F EH0",
+      "V ER0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lae1feh0ver0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "calgene",
+    "clip_id": "clip5",
+    "syllables": [
+      "K AE1",
+      "L JH IY2",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kae1ljhiy2n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "retailed",
+    "clip_id": "clip1",
+    "syllables": [
+      "R IY1",
+      "T EY2",
+      "L D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "riy1tey2ld",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "gully",
+    "clip_id": "clip3",
+    "syllables": [
+      "G AH1",
+      "L IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "gah1liy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "eked",
+    "clip_id": "clip6",
+    "syllables": [
+      "IY1",
+      "K T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "iy1kt",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "rylan",
+    "clip_id": "clip8",
+    "syllables": [
+      "R AY1",
+      "L AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ray1lah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "josephson",
+    "clip_id": "clip10",
+    "syllables": [
+      "JH OW1",
+      "S AH0",
+      "F S AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "jhow1sah0fsah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "shatz",
+    "clip_id": "clip5",
+    "syllables": [
+      "SH AE1",
+      "T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "shae1ts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "commerciale",
+    "clip_id": "clip1",
+    "syllables": [
+      "K AH0",
+      "M ER2",
+      "S IY0",
+      "AE1",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kah0mer2siy0ae1l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "unfaithful",
+    "clip_id": "clip2",
+    "syllables": [
+      "AH0",
+      "N F EY1",
+      "TH F AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah0nfey1thfah0l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "von",
+    "clip_id": "clip10",
+    "syllables": [
+      "V AO1",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "vao1n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "chesnutt",
+    "clip_id": "clip6",
+    "syllables": [
+      "SH IH0",
+      "S N AH1",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "shih0snah1t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "chortling",
+    "clip_id": "clip1",
+    "syllables": [
+      "CH AO1",
+      "R T AH0",
+      "L IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "chao1rtah0lih0ng",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "rady",
+    "clip_id": "clip5",
+    "syllables": [
+      "R EY1",
+      "D IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rey1diy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "montenegro",
+    "clip_id": "clip3",
+    "syllables": [
+      "M AA2",
+      "N T AH0",
+      "N EY1",
+      "G R OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "maa2ntah0ney1grow0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "rubinson",
+    "clip_id": "clip1",
+    "syllables": [
+      "R AH1",
+      "B IH0",
+      "N S AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rah1bih0nsah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "ilidza",
+    "clip_id": "clip3",
+    "syllables": [
+      "IH0",
+      "L IH1",
+      "D Z AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih0lih1dzah0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "discontinuity",
+    "clip_id": "clip8",
+    "syllables": [
+      "D IH0",
+      "S K AA2",
+      "N T IH0",
+      "N UW1",
+      "IH0",
+      "T IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dih0skaa2ntih0nuw1ih0tiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "infringement",
+    "clip_id": "clip2",
+    "syllables": [
+      "IH0",
+      "N F R IH1",
+      "N JH M AH0",
+      "N T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih0nfrih1njhmah0nt",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "mickish",
+    "clip_id": "clip6",
+    "syllables": [
+      "M IH1",
+      "K IH0",
+      "SH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mih1kih0sh",
+    "feature_id": "stress"
+  },
+  {
+    "text": "gara",
+    "clip_id": "clip5",
+    "syllables": [
+      "G AE1",
+      "R AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "gae1rah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "weyrick",
+    "clip_id": "clip2",
+    "syllables": [
+      "W EY1",
+      "R IH0",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wey1rih0k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "paluzzi",
+    "clip_id": "clip8",
+    "syllables": [
+      "P AA0",
+      "L UW1",
+      "T S IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "paa0luw1tsiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "rearing",
+    "clip_id": "clip3",
+    "syllables": [
+      "R IH1",
+      "R IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rih1rih0ng",
+    "feature_id": "stress"
+  },
+  {
+    "text": "waynesboro",
+    "clip_id": "clip4",
+    "syllables": [
+      "W EY1",
+      "N Z B ER0",
+      "OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wey1nzber0ow0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "lundblad",
+    "clip_id": "clip7",
+    "syllables": [
+      "L AH1",
+      "N D B L AH0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lah1ndblah0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "captivates",
+    "clip_id": "clip9",
+    "syllables": [
+      "K AE1",
+      "P T IH0",
+      "V EY2",
+      "T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kae1ptih0vey2ts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "artley",
+    "clip_id": "clip10",
+    "syllables": [
+      "AA1",
+      "R T L IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "aa1rtliy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "pankau",
+    "clip_id": "clip7",
+    "syllables": [
+      "P AE1",
+      "NG K AW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pae1ngkaw0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "miniskirt",
+    "clip_id": "clip8",
+    "syllables": [
+      "M IH1",
+      "N IY0",
+      "S K ER2",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mih1niy0sker2t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "bulat",
+    "clip_id": "clip7",
+    "syllables": [
+      "B UW1",
+      "L AH0",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "buw1lah0t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "lythgoe",
+    "clip_id": "clip2",
+    "syllables": [
+      "L IH1",
+      "TH G OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lih1thgow0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "troupes",
+    "clip_id": "clip4",
+    "syllables": [
+      "T R UW1",
+      "P S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "truw1ps",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "squadron",
+    "clip_id": "clip5",
+    "syllables": [
+      "S K W AA1",
+      "D R AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "skwaa1drah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "sadden",
+    "clip_id": "clip2",
+    "syllables": [
+      "S AE1",
+      "D AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sae1dah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "monk",
+    "clip_id": "clip1",
+    "syllables": [
+      "M AH1",
+      "NG K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mah1ngk",
+    "feature_id": "stress"
+  },
+  {
+    "text": "residence",
+    "clip_id": "clip2",
+    "syllables": [
+      "R EH1",
+      "Z IH0",
+      "D AH0",
+      "N S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "reh1zih0dah0ns",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "ivancic",
+    "clip_id": "clip3",
+    "syllables": [
+      "IH0",
+      "V AE1",
+      "NG K IH0",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih0vae1ngkih0k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "landslides",
+    "clip_id": "clip10",
+    "syllables": [
+      "L AE1",
+      "N D S L AY2",
+      "D Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lae1ndslay2dz",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "dulcie",
+    "clip_id": "clip10",
+    "syllables": [
+      "D AH1",
+      "L K IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dah1lkiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "telaction",
+    "clip_id": "clip7",
+    "syllables": [
+      "T EH0",
+      "L AE1",
+      "K SH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "teh0lae1kshah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "conveyer",
+    "clip_id": "clip2",
+    "syllables": [
+      "K AH0",
+      "N V EY1",
+      "ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kah0nvey1er0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "krout",
+    "clip_id": "clip10",
+    "syllables": [
+      "K R AW1",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kraw1t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "berrier",
+    "clip_id": "clip3",
+    "syllables": [
+      "B EH1",
+      "R IY0",
+      "ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "beh1riy0er0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "morgenthau",
+    "clip_id": "clip8",
+    "syllables": [
+      "M AO1",
+      "R G AH0",
+      "N TH AW2"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mao1rgah0nthaw2",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "fregia",
+    "clip_id": "clip8",
+    "syllables": [
+      "F R IY1",
+      "JH IY0",
+      "AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "friy1jhiy0ah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "obnoxious",
+    "clip_id": "clip5",
+    "syllables": [
+      "AA0",
+      "B N AA1",
+      "K SH AH0",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "aa0bnaa1kshah0s",
+    "feature_id": "stress"
+  },
+  {
+    "text": "bloom",
+    "clip_id": "clip5",
+    "syllables": [
+      "B L UW1",
+      "M"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bluw1m",
+    "feature_id": "stress"
+  },
+  {
+    "text": "odden",
+    "clip_id": "clip8",
+    "syllables": [
+      "AA1",
+      "D AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "aa1dah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "icon",
+    "clip_id": "clip6",
+    "syllables": [
+      "AY1",
+      "K AA0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ay1kaa0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "gualdoni",
+    "clip_id": "clip8",
+    "syllables": [
+      "G AA0",
+      "L D OW1",
+      "N IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "gaa0ldow1niy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "bourgault",
+    "clip_id": "clip2",
+    "syllables": [
+      "B UH0",
+      "R G OW1"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "buh0rgow1",
+    "feature_id": "stress"
+  },
+  {
+    "text": "cliggott",
+    "clip_id": "clip2",
+    "syllables": [
+      "K L IH1",
+      "G AH0",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "klih1gah0t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "medfirst",
+    "clip_id": "clip3",
+    "syllables": [
+      "M EH1",
+      "D F ER1",
+      "S T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "meh1dfer1st",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "schleiger",
+    "clip_id": "clip2",
+    "syllables": [
+      "SH L AY1",
+      "G ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "shlay1ger0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "resurgent",
+    "clip_id": "clip6",
+    "syllables": [
+      "R IH0",
+      "S ER1",
+      "JH AH0",
+      "N T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rih0ser1jhah0nt",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "dram",
+    "clip_id": "clip1",
+    "syllables": [
+      "D R AE1",
+      "M"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "drae1m",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "coincidental",
+    "clip_id": "clip4",
+    "syllables": [
+      "K OW0",
+      "IH2",
+      "N S AH0",
+      "D EH1",
+      "N T AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kow0ih2nsah0deh1ntah0l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "beare",
+    "clip_id": "clip9",
+    "syllables": [
+      "B IH1",
+      "R"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bih1r",
+    "feature_id": "stress"
+  },
+  {
+    "text": "reducible",
+    "clip_id": "clip10",
+    "syllables": [
+      "R AH0",
+      "D UW1",
+      "S AH0",
+      "B AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rah0duw1sah0bah0l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "oxidation",
+    "clip_id": "clip2",
+    "syllables": [
+      "AA2",
+      "K S AH0",
+      "D EY1",
+      "SH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "aa2ksah0dey1shah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "censer",
+    "clip_id": "clip4",
+    "syllables": [
+      "S EH1",
+      "N S ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "seh1nser0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "ugity",
+    "clip_id": "clip6",
+    "syllables": [
+      "AH1",
+      "G IH0",
+      "T IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah1gih0tiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "constitute",
+    "clip_id": "clip9",
+    "syllables": [
+      "K AA1",
+      "N S T AH0",
+      "T UW2",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kaa1nstah0tuw2t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "episodes",
+    "clip_id": "clip5",
+    "syllables": [
+      "EH1",
+      "P AH0",
+      "S OW2",
+      "D Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "eh1pah0sow2dz",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "barracks",
+    "clip_id": "clip4",
+    "syllables": [
+      "B AE1",
+      "R AH0",
+      "K S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bae1rah0ks",
+    "feature_id": "stress"
+  },
+  {
+    "text": "leaves",
+    "clip_id": "clip8",
+    "syllables": [
+      "L IY1",
+      "V Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "liy1vz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "cianciola",
+    "clip_id": "clip10",
+    "syllables": [
+      "CH AO1",
+      "N CH OW0",
+      "L AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "chao1nchow0lah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "hunnewell",
+    "clip_id": "clip3",
+    "syllables": [
+      "HH AH1",
+      "N IH0",
+      "W EH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhah1nih0weh0l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "siedenburg",
+    "clip_id": "clip7",
+    "syllables": [
+      "S IY1",
+      "D AH0",
+      "N B ER0",
+      "G"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "siy1dah0nber0g",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "horseshoes",
+    "clip_id": "clip5",
+    "syllables": [
+      "HH AO1",
+      "R S SH UW2",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhao1rsshuw2z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "sapp",
+    "clip_id": "clip9",
+    "syllables": [
+      "S AE1",
+      "P"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sae1p",
+    "feature_id": "stress"
+  },
+  {
+    "text": "proclamations",
+    "clip_id": "clip9",
+    "syllables": [
+      "P R AA2",
+      "K L AH0",
+      "M EY1",
+      "SH AH0",
+      "N Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "praa2klah0mey1shah0nz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "bugge",
+    "clip_id": "clip8",
+    "syllables": [
+      "B AH1",
+      "G"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bah1g",
+    "feature_id": "stress"
+  },
+  {
+    "text": "rob",
+    "clip_id": "clip9",
+    "syllables": [
+      "R AA1",
+      "B"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "raa1b",
+    "feature_id": "stress"
+  },
+  {
+    "text": "bellflowers",
+    "clip_id": "clip1",
+    "syllables": [
+      "B EH1",
+      "L F L AW2",
+      "ER0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "beh1lflaw2er0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "glaus",
+    "clip_id": "clip5",
+    "syllables": [
+      "G L AO1",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "glao1z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "ruark",
+    "clip_id": "clip8",
+    "syllables": [
+      "R UW1",
+      "AA0",
+      "R K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ruw1aa0rk",
+    "feature_id": "stress"
+  },
+  {
+    "text": "hamner",
+    "clip_id": "clip7",
+    "syllables": [
+      "HH AE1",
+      "M N ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhae1mner0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "zauner",
+    "clip_id": "clip2",
+    "syllables": [
+      "Z AO1",
+      "N ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "zao1ner0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "heh",
+    "clip_id": "clip1",
+    "syllables": [
+      "HH EH1"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hheh1",
+    "feature_id": "stress"
+  },
+  {
+    "text": "toti",
+    "clip_id": "clip2",
+    "syllables": [
+      "T OW1",
+      "T IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "tow1tiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "imagine",
+    "clip_id": "clip2",
+    "syllables": [
+      "IH0",
+      "M AE1",
+      "JH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih0mae1jhah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "masaya",
+    "clip_id": "clip1",
+    "syllables": [
+      "M AA0",
+      "S AA1",
+      "Y AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "maa0saa1yah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "department",
+    "clip_id": "clip4",
+    "syllables": [
+      "D IH0",
+      "P AA1",
+      "R T M AH0",
+      "N T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dih0paa1rtmah0nt",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "pastorius",
+    "clip_id": "clip1",
+    "syllables": [
+      "P AE1",
+      "S T AO0",
+      "R IY0",
+      "IH0",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pae1stao0riy0ih0s",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "paternostro",
+    "clip_id": "clip10",
+    "syllables": [
+      "P AA0",
+      "T ER0",
+      "N OW1",
+      "S T R OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "paa0ter0now1strow0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "trible",
+    "clip_id": "clip8",
+    "syllables": [
+      "T R IH1",
+      "B AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "trih1bah0l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "mussels",
+    "clip_id": "clip5",
+    "syllables": [
+      "M AH1",
+      "S AH0",
+      "L Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mah1sah0lz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "hammill",
+    "clip_id": "clip3",
+    "syllables": [
+      "HH AE1",
+      "M AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhae1mah0l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "pollner",
+    "clip_id": "clip2",
+    "syllables": [
+      "P OW1",
+      "L N ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pow1lner0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "anthem",
+    "clip_id": "clip2",
+    "syllables": [
+      "AE1",
+      "N TH AH0",
+      "M"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ae1nthah0m",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "jibes",
+    "clip_id": "clip6",
+    "syllables": [
+      "JH AY1",
+      "B Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "jhay1bz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "pier",
+    "clip_id": "clip5",
+    "syllables": [
+      "P IH1",
+      "R"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pih1r",
+    "feature_id": "stress"
+  },
+  {
+    "text": "aquarist",
+    "clip_id": "clip5",
+    "syllables": [
+      "AH0",
+      "K W EH1",
+      "R AH0",
+      "S T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah0kweh1rah0st",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "furloughs",
+    "clip_id": "clip9",
+    "syllables": [
+      "F ER1",
+      "L OW0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "fer1low0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "uppity",
+    "clip_id": "clip7",
+    "syllables": [
+      "AH1",
+      "P AH0",
+      "T IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah1pah0tiy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "did",
+    "clip_id": "clip2",
+    "syllables": [
+      "D IH1",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dih1d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "buschbaum",
+    "clip_id": "clip3",
+    "syllables": [
+      "B UH1",
+      "SH B AW2",
+      "M"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "buh1shbaw2m",
+    "feature_id": "stress"
+  },
+  {
+    "text": "stegmann",
+    "clip_id": "clip5",
+    "syllables": [
+      "S T EH1",
+      "G M AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "steh1gmah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "riadys",
+    "clip_id": "clip3",
+    "syllables": [
+      "R IY0",
+      "AA1",
+      "D IY0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "riy0aa1diy0z",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "ropers",
+    "clip_id": "clip10",
+    "syllables": [
+      "R OW1",
+      "P ER0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "row1per0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "obstinate",
+    "clip_id": "clip4",
+    "syllables": [
+      "AA1",
+      "B S T AH0",
+      "N AH0",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "aa1bstah0nah0t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "secunda",
+    "clip_id": "clip9",
+    "syllables": [
+      "S IH0",
+      "K AH1",
+      "N D AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sih0kah1ndah0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "interweave",
+    "clip_id": "clip1",
+    "syllables": [
+      "IH2",
+      "N T ER0",
+      "W IY1",
+      "V"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih2nter0wiy1v",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "maplewood",
+    "clip_id": "clip6",
+    "syllables": [
+      "M EY1",
+      "P AH0",
+      "L W UH2",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mey1pah0lwuh2d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "underperformed",
+    "clip_id": "clip1",
+    "syllables": [
+      "AH1",
+      "N D ER0",
+      "P ER0",
+      "F AO2",
+      "R M D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah1nder0per0fao2rmd",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "tower",
+    "clip_id": "clip1",
+    "syllables": [
+      "T AW1",
+      "ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "taw1er0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "lollar",
+    "clip_id": "clip3",
+    "syllables": [
+      "L AA1",
+      "L ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "laa1ler0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "homestead",
+    "clip_id": "clip10",
+    "syllables": [
+      "HH OW1",
+      "M S T EH2",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhow1msteh2d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "schiel",
+    "clip_id": "clip2",
+    "syllables": [
+      "SH IY1",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "shiy1l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "misguided",
+    "clip_id": "clip3",
+    "syllables": [
+      "M IH0",
+      "S G AY1",
+      "D IH0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mih0sgay1dih0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "bilirakis",
+    "clip_id": "clip4",
+    "syllables": [
+      "B IH0",
+      "L IH1",
+      "R AH0",
+      "K IH0",
+      "S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bih0lih1rah0kih0s",
+    "feature_id": "stress"
+  },
+  {
+    "text": "gerashchenko",
+    "clip_id": "clip9",
+    "syllables": [
+      "G EH2",
+      "AH0",
+      "SH EY1",
+      "NG K OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "geh2ah0shey1ngkow0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "curiale",
+    "clip_id": "clip9",
+    "syllables": [
+      "K UH0",
+      "R IY0",
+      "AA1",
+      "L IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kuh0riy0aa1liy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "putting",
+    "clip_id": "clip4",
+    "syllables": [
+      "P AH1",
+      "T IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pah1tih0ng",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "likenesses",
+    "clip_id": "clip6",
+    "syllables": [
+      "L AY1",
+      "K N AH0",
+      "S IH0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lay1knah0sih0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "wishing",
+    "clip_id": "clip7",
+    "syllables": [
+      "W IH1",
+      "SH IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wih1shih0ng",
+    "feature_id": "stress"
+  },
+  {
+    "text": "puchalski",
+    "clip_id": "clip3",
+    "syllables": [
+      "P AH0",
+      "HH AA1",
+      "L S K IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pah0hhaa1lskiy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "mobbs",
+    "clip_id": "clip7",
+    "syllables": [
+      "M AA1",
+      "B Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "maa1bz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "schnook",
+    "clip_id": "clip6",
+    "syllables": [
+      "SH N UH1",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "shnuh1k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "algeo",
+    "clip_id": "clip9",
+    "syllables": [
+      "AE1",
+      "L JH IY0",
+      "OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ae1ljhiy0ow0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "danelle",
+    "clip_id": "clip1",
+    "syllables": [
+      "D AH0",
+      "N EH1",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dah0neh1l",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "denoted",
+    "clip_id": "clip8",
+    "syllables": [
+      "D IH0",
+      "N OW1",
+      "T AH0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dih0now1tah0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "deserting",
+    "clip_id": "clip2",
+    "syllables": [
+      "D EH1",
+      "Z ER0",
+      "T IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "deh1zer0tih0ng",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "smooth",
+    "clip_id": "clip3",
+    "syllables": [
+      "S M UW1",
+      "DH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "smuw1dh",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "bullocks",
+    "clip_id": "clip9",
+    "syllables": [
+      "B UH1",
+      "L AH0",
+      "K S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "buh1lah0ks",
+    "feature_id": "stress"
+  },
+  {
+    "text": "mitsch",
+    "clip_id": "clip5",
+    "syllables": [
+      "M IH1",
+      "CH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mih1ch",
+    "feature_id": "stress"
+  },
+  {
+    "text": "monastic",
+    "clip_id": "clip1",
+    "syllables": [
+      "M AH0",
+      "N AE1",
+      "S T IH0",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mah0nae1stih0k",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "alienation",
+    "clip_id": "clip9",
+    "syllables": [
+      "EY2",
+      "L IY0",
+      "AH0",
+      "N EY1",
+      "SH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ey2liy0ah0ney1shah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "gunnoe",
+    "clip_id": "clip6",
+    "syllables": [
+      "G AH1",
+      "N OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "gah1now0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "stiverson",
+    "clip_id": "clip9",
+    "syllables": [
+      "S T IH1",
+      "V ER0",
+      "S AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "stih1ver0sah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "freezer",
+    "clip_id": "clip6",
+    "syllables": [
+      "F R IY1",
+      "Z ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "friy1zer0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "bon",
+    "clip_id": "clip9",
+    "syllables": [
+      "B AA1",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "baa1n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "zenaida",
+    "clip_id": "clip3",
+    "syllables": [
+      "Z IH0",
+      "N EY1",
+      "D AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "zih0ney1dah0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "onetime",
+    "clip_id": "clip9",
+    "syllables": [
+      "W AH1",
+      "N T AY1",
+      "M"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "wah1ntay1m",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "hausler",
+    "clip_id": "clip3",
+    "syllables": [
+      "HH AW1",
+      "S AH0",
+      "L ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhaw1sah0ler0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "kulon",
+    "clip_id": "clip6",
+    "syllables": [
+      "K UW1",
+      "L AO2",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kuw1lao2n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "ulysses",
+    "clip_id": "clip9",
+    "syllables": [
+      "Y UW0",
+      "L IH1",
+      "S IY0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "yuw0lih1siy0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "pennell",
+    "clip_id": "clip9",
+    "syllables": [
+      "P EH1",
+      "N AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "peh1nah0l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "bernia",
+    "clip_id": "clip1",
+    "syllables": [
+      "B EH1",
+      "R N IY0",
+      "AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "beh1rniy0ah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "chopin",
+    "clip_id": "clip4",
+    "syllables": [
+      "SH OW1",
+      "P AE0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "show1pae0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "expedia",
+    "clip_id": "clip2",
+    "syllables": [
+      "EH0",
+      "K S P IY1",
+      "D IY0",
+      "AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "eh0kspiy1diy0ah0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "binkowski",
+    "clip_id": "clip10",
+    "syllables": [
+      "B IH0",
+      "NG K AO1",
+      "F S K IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bih0ngkao1fskiy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "sheba",
+    "clip_id": "clip4",
+    "syllables": [
+      "SH IY1",
+      "B AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "shiy1bah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "subsidization",
+    "clip_id": "clip4",
+    "syllables": [
+      "S AH2",
+      "B S IH0",
+      "D IH0",
+      "Z EY1",
+      "SH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sah2bsih0dih0zey1shah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "kunzman",
+    "clip_id": "clip1",
+    "syllables": [
+      "K AH1",
+      "N Z M AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kah1nzmah0n",
+    "feature_id": "stress"
+  },
+  {
+    "text": "jihad",
+    "clip_id": "clip5",
+    "syllables": [
+      "JH IY1",
+      "HH AE0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "jhiy1hhae0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "undiplomatically",
+    "clip_id": "clip2",
+    "syllables": [
+      "AH0",
+      "N D IH2",
+      "P L AH0",
+      "M AE1",
+      "T IH0",
+      "K L IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah0ndih2plah0mae1tih0kliy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "appelhans",
+    "clip_id": "clip9",
+    "syllables": [
+      "AE1",
+      "P IH0",
+      "L HH AH0",
+      "N Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ae1pih0lhhah0nz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "firebombing",
+    "clip_id": "clip4",
+    "syllables": [
+      "F AY1",
+      "ER0",
+      "B AA2",
+      "M IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "fay1er0baa2mih0ng",
+    "feature_id": "stress"
+  },
+  {
+    "text": "lomak",
+    "clip_id": "clip6",
+    "syllables": [
+      "L OW1",
+      "M AE0",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "low1mae0k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "unfair",
+    "clip_id": "clip9",
+    "syllables": [
+      "AH0",
+      "N F EH1",
+      "R"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ah0nfeh1r",
+    "feature_id": "stress"
+  },
+  {
+    "text": "scalfaro",
+    "clip_id": "clip8",
+    "syllables": [
+      "S K AE2",
+      "L F AA1",
+      "R OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "skae2lfaa1row0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "pizzazz",
+    "clip_id": "clip7",
+    "syllables": [
+      "P IH2",
+      "Z AE1",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pih2zae1z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "kaus",
+    "clip_id": "clip1",
+    "syllables": [
+      "K AO1",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kao1z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "overshadowing",
+    "clip_id": "clip9",
+    "syllables": [
+      "OW1",
+      "V ER0",
+      "SH AE1",
+      "D OW0",
+      "IH0",
+      "NG"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ow1ver0shae1dow0ih0ng",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "terri",
+    "clip_id": "clip9",
+    "syllables": [
+      "T EH1",
+      "R IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "teh1riy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "conservatism",
+    "clip_id": "clip6",
+    "syllables": [
+      "K AH0",
+      "N S ER1",
+      "V AH0",
+      "T IH2",
+      "Z AH0",
+      "M"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kah0nser1vah0tih2zah0m",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "kingmaker",
+    "clip_id": "clip3",
+    "syllables": [
+      "K IH1",
+      "NG M EY2",
+      "K ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kih1ngmey2ker0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "raffles",
+    "clip_id": "clip8",
+    "syllables": [
+      "R AE1",
+      "F AH0",
+      "L Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rae1fah0lz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "peek",
+    "clip_id": "clip3",
+    "syllables": [
+      "P IY1",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "piy1k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "paroled",
+    "clip_id": "clip7",
+    "syllables": [
+      "P ER0",
+      "OW1",
+      "L D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "per0ow1ld",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "prosody",
+    "clip_id": "clip8",
+    "syllables": [
+      "P R AA1",
+      "S AH0",
+      "D IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "praa1sah0diy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "redacted",
+    "clip_id": "clip2",
+    "syllables": [
+      "R IH0",
+      "D AE1",
+      "K T IH0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rih0dae1ktih0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "microfiche",
+    "clip_id": "clip8",
+    "syllables": [
+      "M AY1",
+      "K R OW0",
+      "F IY2",
+      "CH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "may1krow0fiy2ch",
+    "feature_id": "stress"
+  },
+  {
+    "text": "blackens",
+    "clip_id": "clip5",
+    "syllables": [
+      "B L AE1",
+      "K AH0",
+      "N Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "blae1kah0nz",
+    "feature_id": "stress"
+  },
+  {
+    "text": "lactone",
+    "clip_id": "clip3",
+    "syllables": [
+      "L AE1",
+      "K T OW0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lae1ktow0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "circuitry",
+    "clip_id": "clip5",
+    "syllables": [
+      "S ER1",
+      "K AH0",
+      "T R IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ser1kah0triy0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "arrigo",
+    "clip_id": "clip3",
+    "syllables": [
+      "AA2",
+      "R IY1",
+      "G OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "aa2riy1gow0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "rach",
+    "clip_id": "clip3",
+    "syllables": [
+      "R AE1",
+      "CH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rae1ch",
+    "feature_id": "stress"
+  },
+  {
+    "text": "station",
+    "clip_id": "clip3",
+    "syllables": [
+      "S T EY1",
+      "SH AH0",
+      "N"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "stey1shah0n",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "spangle",
+    "clip_id": "clip8",
+    "syllables": [
+      "S P AE1",
+      "NG G AH0",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "spae1nggah0l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "valhi",
+    "clip_id": "clip7",
+    "syllables": [
+      "V AE1",
+      "L HH IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "vae1lhhiy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "makeover",
+    "clip_id": "clip5",
+    "syllables": [
+      "M AE1",
+      "K OW2",
+      "V ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mae1kow2ver0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "reeche",
+    "clip_id": "clip4",
+    "syllables": [
+      "R IY1",
+      "CH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "riy1ch",
+    "feature_id": "stress"
+  },
+  {
+    "text": "joule",
+    "clip_id": "clip7",
+    "syllables": [
+      "JH UW1",
+      "L"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "jhuw1l",
+    "feature_id": "stress"
+  },
+  {
+    "text": "lissack",
+    "clip_id": "clip1",
+    "syllables": [
+      "L IH1",
+      "S AH0",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lih1sah0k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "voltz",
+    "clip_id": "clip6",
+    "syllables": [
+      "V OW1",
+      "L T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "vow1lts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "cinch",
+    "clip_id": "clip4",
+    "syllables": [
+      "S IH1",
+      "N CH"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sih1nch",
+    "feature_id": "stress"
+  },
+  {
+    "text": "receivership",
+    "clip_id": "clip8",
+    "syllables": [
+      "R IH0",
+      "S IY1",
+      "V ER0",
+      "SH IH2",
+      "P"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "rih0siy1ver0shih2p",
+    "feature_id": "stress"
+  },
+  {
+    "text": "halbur",
+    "clip_id": "clip4",
+    "syllables": [
+      "HH AE1",
+      "L B ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "hhae1lber0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "ideologies",
+    "clip_id": "clip6",
+    "syllables": [
+      "AY2",
+      "D IY0",
+      "AA1",
+      "L AH0",
+      "JH IY0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ay2diy0aa1lah0jhiy0z",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "baxa",
+    "clip_id": "clip10",
+    "syllables": [
+      "B AE1",
+      "K S AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bae1ksah0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "socci",
+    "clip_id": "clip1",
+    "syllables": [
+      "S OW1",
+      "CH IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "sow1chiy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "chitra",
+    "clip_id": "clip7",
+    "syllables": [
+      "CH IH1",
+      "T R AH0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "chih1trah0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "authorize",
+    "clip_id": "clip10",
+    "syllables": [
+      "AO1",
+      "TH ER0",
+      "AY2",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ao1ther0ay2z",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "pileup",
+    "clip_id": "clip1",
+    "syllables": [
+      "P AY1",
+      "L AH2",
+      "P"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pay1lah2p",
+    "feature_id": "stress"
+  },
+  {
+    "text": "bortz",
+    "clip_id": "clip4",
+    "syllables": [
+      "B AO1",
+      "R T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "bao1rts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "commissaries",
+    "clip_id": "clip8",
+    "syllables": [
+      "K AA1",
+      "M AH0",
+      "S EH2",
+      "R IY0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kaa1mah0seh2riy0z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "requalify",
+    "clip_id": "clip10",
+    "syllables": [
+      "R IY2",
+      "K W AA1",
+      "L AH0",
+      "F AY2"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "riy2kwaa1lah0fay2",
+    "feature_id": "stress"
+  },
+  {
+    "text": "marooney",
+    "clip_id": "clip1",
+    "syllables": [
+      "M ER0",
+      "UW1",
+      "N IY0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "mer0uw1niy0",
+    "feature_id": "stress"
+  },
+  {
+    "text": "marx",
+    "clip_id": "clip10",
+    "syllables": [
+      "M AA1",
+      "R K S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "maa1rks",
+    "feature_id": "stress"
+  },
+  {
+    "text": "inappropriate",
+    "clip_id": "clip2",
+    "syllables": [
+      "IH2",
+      "N AH0",
+      "P R OW1",
+      "P R IY0",
+      "IH0",
+      "T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ih2nah0prow1priy0ih0t",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "doerner",
+    "clip_id": "clip3",
+    "syllables": [
+      "D AO1",
+      "R N ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dao1rner0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "steinfeldt",
+    "clip_id": "clip9",
+    "syllables": [
+      "S T AY1",
+      "N F EH2",
+      "L T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "stay1nfeh2lt",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "persisted",
+    "clip_id": "clip4",
+    "syllables": [
+      "P ER0",
+      "S IH1",
+      "S T AH0",
+      "D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "per0sih1stah0d",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "cooperider",
+    "clip_id": "clip4",
+    "syllables": [
+      "K UW1",
+      "P ER0",
+      "AY0",
+      "D ER0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kuw1per0ay0der0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "jethro",
+    "clip_id": "clip3",
+    "syllables": [
+      "JH EH1",
+      "TH R OW0"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "jheh1throw0",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "kilts",
+    "clip_id": "clip6",
+    "syllables": [
+      "K IH1",
+      "L T S"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "kih1lts",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "aliff",
+    "clip_id": "clip2",
+    "syllables": [
+      "AE1",
+      "L IH0",
+      "F"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "ae1lih0f",
+    "feature_id": "stress"
+  },
+  {
+    "text": "desires",
+    "clip_id": "clip8",
+    "syllables": [
+      "D IH0",
+      "Z AY1",
+      "ER0",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "dih0zay1er0z",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "fold",
+    "clip_id": "clip1",
+    "syllables": [
+      "F OW1",
+      "L D"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "fow1ld",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "junek",
+    "clip_id": "clip10",
+    "syllables": [
+      "JH UW1",
+      "N IH0",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "jhuw1nih0k",
+    "feature_id": "stress"
+  },
+  {
+    "text": "lightship",
+    "clip_id": "clip2",
+    "syllables": [
+      "L AY1",
+      "T SH IH2",
+      "P"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "lay1tshih2p",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "flees",
+    "clip_id": "clip1",
+    "syllables": [
+      "F L IY1",
+      "Z"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "fliy1z",
+    "feature_id": "stress"
+  },
+  {
+    "text": "poltrack",
+    "clip_id": "clip4",
+    "syllables": [
+      "P OW1",
+      "L T R AE2",
+      "K"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "pow1ltrae2k",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "rosenquist",
+    "clip_id": "clip9",
+    "syllables": [
+      "R OW1",
+      "Z AH0",
+      "N K W IH0",
+      "S T"
+    ],
+    "original_pronunciation": false,
+    "ipa_pronunciation": "row1zah0nkwih0st",
+    "feature_id": "t_flap"
+  },
+  {
+    "text": "schedule",
+    "syllables": [
+      "S",
+      "K",
+      "EH1",
+      "JH",
+      "UH0",
+      "L"
+    ],
+    "feature_id": "stress",
+    "original_pronunciation": "S K EH1 JH UH0 L"
+  },
+  {
+    "text": "natural",
+    "syllables": [
+      "N",
+      "AE1",
+      "CH",
+      "ER0",
+      "AH0",
+      "L"
+    ],
+    "feature_id": "stress",
+    "original_pronunciation": "N AE1 CH ER0 AH0 L"
+  },
+  {
+    "text": "kansas",
+    "syllables": [
+      "K",
+      "AE1",
+      "N",
+      "Z",
+      "AH0",
+      "S"
+    ],
+    "feature_id": "stress",
+    "original_pronunciation": "K AE1 N Z AH0 S"
+  }
+]

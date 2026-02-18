@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>American Pronunciation Quiz</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <header class="header">
+            <h1>🎯 American Pronunciation Quiz</h1>
+            <p class="subtitle">Master English pronunciation features</p>
+        </header>
+
+        <!-- Quiz Section -->
+        <main class="quiz-section" id="quizSection">
+            <!-- Word Display Card -->
+            <div class="card word-card">
+                <div class="word-header">
+                    <h2 id="wordText" class="word-display">---</h2>
+                    <div class="header-buttons">
+                        <button id="newWordBtn" class="btn btn-primary" title="Get a random word to practice">
+                            📚 Get Quiz Word
+                        </button>
+                        <button id="clearBtn" class="btn btn-secondary" title="Clear and reset" style="display: none;">
+                            ❌ Clear
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Search Word Bar -->
+                <div class="search-word-bar">
+                    <input type="text" id="searchWordInput" placeholder="Search any word..." class="form-control search-input">
+                    <button id="searchWordBtn" class="btn btn-secondary" title="Search word">🔍 Search</button>
+                </div>
+
+                <!-- Feedback Display -->
+                <div id="feedbackBox" class="feedback-box hidden">
+                    <p id="feedbackText"></p>
+                </div>
+
+                <!-- Definition -->
+                <div class="definition-section">
+                    <h4>📖 Definition</h4>
+                    <p id="definitionText">---</p>
+                </div>
+
+                <!-- Pronunciation Info -->
+                <div class="pronunciation-info">
+                    <div class="info-row">
+                        <label>Syllables (ARPAbet):</label>
+                        <span id="syllablesDisplay" class="mono-text">---</span>
+                    </div>
+                    <div class="info-row">
+                        <label>IPA:</label>
+                        <span id="ipaDisplay" class="mono-text">---</span>
+                    </div>
+                    <div class="info-row">
+                        <label>Original:</label>
+                        <span id="originalDisplay" class="mono-text">---</span>
+                    </div>
+                </div>
+
+                <!-- Audio Controls -->
+                <div class="audio-controls">
+                    <button id="ttsBtn" class="btn btn-secondary" title="Play pronunciation">
+                        🔊 Neural TTS
+                    </button>
+                    <button id="youglishBtn" class="btn btn-secondary" title="Open YouGlish">
+                        🌐 YouGlish
+                    </button>
+                </div>
+
+                <!-- Add to Quiz Section (for searched words) -->
+                <div id="addToQuizSection" class="search-add hidden">
+                    <h4>➕ Add To Quiz</h4>
+                    <div class="form-group">
+                        <label for="addSyllablesInput">Syllables (space-separated ARPAbet):</label>
+                        <input type="text" id="addSyllablesInput" placeholder="e.g., K IH1 NG M EY2 K ER0" class="form-control">
+                    </div>
+                    <div class="form-group">
+                        <label for="addFeatureSelect">Feature ID:</label>
+                        <select id="addFeatureSelect" class="form-control">
+                            <option value="stress">stress</option>
+                            <option value="rhythm">rhythm</option>
+                            <option value="reduction">reduction</option>
+                            <option value="linking">linking</option>
+                            <option value="assimilation">assimilation</option>
+                            <option value="t_flap">t_flap (flapping)</option>
+                            <option value="dark_l">dark_l (velarized L)</option>
+                            <option value="glottalization">glottalization (glottal stop)</option>
+                            <option value="r_coloring">r_coloring (rhoticity)</option>
+                            <option value="aspiration">aspiration (p/t/k)</option>
+                            <option value="nasal_flap">nasal_flap (/nt/ flap)</option>
+                            <option value="contractions">contractions (gonna, wanna)</option>
+                            <option value="intonation">intonation</option>
+                        </select>
+                    </div>
+                    <button id="addWordBtn" class="btn btn-primary">💾 Add Word</button>
+                </div>
+            </div>
+
+            <!-- Sentence Practice Section -->
+            <div class="card sentences-card">
+                <h3>📝 Example Sentences for: <span id="sentenceWordDisplay">---</span></h3>
+                <button id="generateSentencesBtn" class="btn btn-secondary">
+                    Generate Sentences
+                </button>
+                
+                <div id="sentencesContainer" class="sentences-container hidden">
+                    <ul id="sentencesList" class="sentences-list"></ul>
+                    <button id="playSentenceBtn" class="btn btn-secondary" disabled>
+                        🔊 Play Selected
+                    </button>
+                </div>
+            </div>
+
+            <!-- Reference Tools -->
+            <div class="card reference-card">
+                <h3>📚 Reference Tools</h3>
+                <div class="reference-buttons">
+                    <button id="definitionBtn" class="btn btn-secondary">📖 Definition</button>
+                    <button id="etymologyBtn" class="btn btn-secondary">🌳 Etymology</button>
+                </div>
+                <div id="referenceContent" class="reference-content hidden">
+                    <p id="referenceText"></p>
+                </div>
+            </div>
+            
+            <!-- Feature Guide Card -->
+            <div class="card feature-guide-card">
+                <h3>🎓 Learning Resources</h3>
+                <p class="card-description">Learn about American accent pronunciation features</p>
+                <button id="featureGuideBtn" class="btn btn-primary btn-large">
+                    📚 Open Feature Guide
+                </button>
+            </div>
+            
+            <!-- Feature Guide Modal -->
+            <div id="featureGuideModal" class="modal hidden">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h2>🎓 American Accent Features Guide</h2>
+                        <button id="closeGuideBtn" class="btn btn-secondary">✖ Close</button>
+                    </div>
+                    <div class="feature-selector">
+                        <label for="featureSelectDropdown">Select a feature to learn:</label>
+                        <select id="featureSelectDropdown" class="form-control">
+                            <option value="">-- Choose a feature --</option>
+                            <option value="stress">Stress - Word stress patterns</option>
+                            <option value="rhythm">Rhythm - Stress-timed rhythm</option>
+                            <option value="reduction">Reduction - Vowel reduction to schwa</option>
+                            <option value="linking">Linking - Connecting words smoothly</option>
+                            <option value="assimilation">Assimilation - Sound changes</option>
+                            <option value="t_flap">T-Flapping - T/D between vowels</option>
+                            <option value="dark_l">Dark L - Velarized L at syllable end</option>
+                            <option value="glottalization">Glottalization - Glottal stop for T</option>
+                            <option value="r_coloring">R-Coloring - American rhoticity</option>
+                            <option value="aspiration">Aspiration - Aspirated P/T/K</option>
+                            <option value="nasal_flap">Nasal Flap - NT flap pattern</option>
+                            <option value="contractions">Contractions - gonna, wanna, gotta</option>
+                            <option value="intonation">Intonation - Pitch patterns</option>
+                        </select>
+                    </div>
+                    <div id="featureDetails" class="feature-details hidden">
+                        <h3 id="featureName">Feature Name</h3>
+                        <p id="featureDescription" class="feature-description"></p>
+                        <div class="feature-explanation">
+                            <h4>📝 Explanation</h4>
+                            <p id="featureExplanation"></p>
+                        </div>
+                        <div class="feature-rules">
+                            <h4>✅ Rules</h4>
+                            <ul id="featureRulesList"></ul>
+                        </div>
+                        <div class="feature-examples">
+                            <h4>💡 Examples</h4>
+                            <ul id="featureExamplesList"></ul>
+                        </div>
+                        <div class="feature-mistakes">
+                            <h4>⚠️ Common Mistakes</h4>
+                            <ul id="featureMistakesList"></ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>Audio generated using neural TTS (US English voice)</p>
+            <p>External pronunciation examples via <a href="https://youglish.com" target="_blank">YouGlish.com</a></p>
+        </footer>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

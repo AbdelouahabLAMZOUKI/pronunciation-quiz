@@ -1,0 +1,157 @@
+{
+  "stress": [
+    {"text": "photograph", "syllables": ["F OW1", "T AH0", "G R AE2 F"], "feature_id": "stress"},
+    {"text": "photography", "syllables": ["F AH0", "T AA1", "G R AH0", "F IY0"], "feature_id": "stress"},
+    {"text": "photographic", "syllables": ["F OW2", "T AH0", "G R AE1", "F IH0 K"], "feature_id": "stress"},
+    {"text": "present", "syllables": ["P R EH1", "Z AH0 N T"], "feature_id": "stress"},
+    {"text": "record", "syllables": ["R EH1", "K ER0 D"], "feature_id": "stress"},
+    {"text": "banana", "syllables": ["B AH0", "N AE1", "N AH0"], "feature_id": "stress"}
+  ],
+  
+  "rhythm": [
+    {"text": "comfortable", "syllables": ["K AH1 M", "F ER0", "T AH0", "B AH0 L"], "feature_id": "rhythm"},
+    {"text": "chocolate", "syllables": ["CH AO1", "K AH0", "L AH0 T"], "feature_id": "rhythm"},
+    {"text": "interesting", "syllables": ["IH1 N", "T ER0", "EH0 S", "T IH0 NG"], "feature_id": "rhythm"},
+    {"text": "comfortable", "syllables": ["K AH1 M", "F T ER0", "B AH0 L"], "feature_id": "rhythm"},
+    {"text": "vegetable", "syllables": ["V EH1 JH", "T AH0", "B AH0 L"], "feature_id": "rhythm"},
+    {"text": "temperature", "syllables": ["T EH1 M", "P R AH0", "CH ER0"], "feature_id": "rhythm"}
+  ],
+  
+  "reduction": [
+    {"text": "about", "syllables": ["AH0", "B AW1 T"], "feature_id": "reduction"},
+    {"text": "banana", "syllables": ["B AH0", "N AE1", "N AH0"], "feature_id": "reduction"},
+    {"text": "police", "syllables": ["P AH0", "L IY1 S"], "feature_id": "reduction"},
+    {"text": "photograph", "syllables": ["F OW1", "T AH0", "G R AE2 F"], "feature_id": "reduction"},
+    {"text": "potato", "syllables": ["P AH0", "T EY1", "T OW0"], "feature_id": "reduction"},
+    {"text": "tomato", "syllables": ["T AH0", "M EY1", "T OW0"], "feature_id": "reduction"},
+    {"text": "ability", "syllables": ["AH0", "B IH1", "L AH0", "T IY0"], "feature_id": "reduction"},
+    {"text": "support", "syllables": ["S AH0", "P AO1 R T"], "feature_id": "reduction"}
+  ],
+  
+  "linking": [
+    {"text": "turn_it_off", "syllables": ["T ER1 N", "IH0 T", "AO1 F"], "feature_id": "linking"},
+    {"text": "pick_up", "syllables": ["P IH1 K", "AH1 P"], "feature_id": "linking"},
+    {"text": "check_it_out", "syllables": ["CH EH1 K", "IH0 T", "AW1 T"], "feature_id": "linking"},
+    {"text": "come_on", "syllables": ["K AH1 M", "AO1 N"], "feature_id": "linking"},
+    {"text": "going_to", "syllables": ["G OW1", "IH0 NG", "T UW0"], "feature_id": "linking"},
+    {"text": "want_to", "syllables": ["W AA1 N T", "T UW0"], "feature_id": "linking"}
+  ],
+  
+  "assimilation": [
+    {"text": "did_you", "syllables": ["D IH1 D", "Y UW0"], "feature_id": "assimilation"},
+    {"text": "would_you", "syllables": ["W UH1 D", "Y UW0"], "feature_id": "assimilation"},
+    {"text": "got_you", "syllables": ["G AA1 T", "Y UW0"], "feature_id": "assimilation"},
+    {"text": "meet_you", "syllables": ["M IY1 T", "Y UW0"], "feature_id": "assimilation"},
+    {"text": "need_you", "syllables": ["N IY1 D", "Y UW0"], "feature_id": "assimilation"},
+    {"text": "could_you", "syllables": ["K UH1 D", "Y UW0"], "feature_id": "assimilation"}
+  ],
+  
+  "t_flap": [
+    {"text": "water", "syllables": ["W AA1", "DX ER0"], "feature_id": "t_flap"},
+    {"text": "better", "syllables": ["B EH1", "DX ER0"], "feature_id": "t_flap"},
+    {"text": "city", "syllables": ["S IH1", "DX IY0"], "feature_id": "t_flap"},
+    {"text": "matter", "syllables": ["M AE1", "DX ER0"], "feature_id": "t_flap"},
+    {"text": "butter", "syllables": ["B AH1", "DX ER0"], "feature_id": "t_flap"},
+    {"text": "party", "syllables": ["P AA1 R", "DX IY0"], "feature_id": "t_flap"},
+    {"text": "letter", "syllables": ["L EH1", "DX ER0"], "feature_id": "t_flap"},
+    {"text": "little", "syllables": ["L IH1", "DX AH0 L"], "feature_id": "t_flap"},
+    {"text": "bottle", "syllables": ["B AA1", "DX AH0 L"], "feature_id": "t_flap"},
+    {"text": "metal", "syllables": ["M EH1", "DX AH0 L"], "feature_id": "t_flap"},
+    {"text": "total", "syllables": ["T OW1", "DX AH0 L"], "feature_id": "t_flap"},
+    {"text": "later", "syllables": ["L EY1", "DX ER0"], "feature_id": "t_flap"}
+  ],
+  
+  "dark_l": [
+    {"text": "feel", "syllables": ["F IY1 L"], "feature_id": "dark_l"},
+    {"text": "milk", "syllables": ["M IH1 L K"], "feature_id": "dark_l"},
+    {"text": "people", "syllables": ["P IY1", "P AH0 L"], "feature_id": "dark_l"},
+    {"text": "bottle", "syllables": ["B AA1", "T AH0 L"], "feature_id": "dark_l"},
+    {"text": "table", "syllables": ["T EY1", "B AH0 L"], "feature_id": "dark_l"},
+    {"text": "pull", "syllables": ["P UH1 L"], "feature_id": "dark_l"},
+    {"text": "bell", "syllables": ["B EH1 L"], "feature_id": "dark_l"},
+    {"text": "apple", "syllables": ["AE1", "P AH0 L"], "feature_id": "dark_l"},
+    {"text": "simple", "syllables": ["S IH1 M", "P AH0 L"], "feature_id": "dark_l"},
+    {"text": "call", "syllables": ["K AO1 L"], "feature_id": "dark_l"}
+  ],
+  
+  "glottalization": [
+    {"text": "button", "syllables": ["B AH1", "T N"], "feature_id": "glottalization"},
+    {"text": "mountain", "syllables": ["M AW1 N", "T N"], "feature_id": "glottalization"},
+    {"text": "important", "syllables": ["IH0 M", "P AO1 R", "T N T"], "feature_id": "glottalization"},
+    {"text": "cotton", "syllables": ["K AA1", "T N"], "feature_id": "glottalization"},
+    {"text": "sentence", "syllables": ["S EH1 N", "T N S"], "feature_id": "glottalization"},
+    {"text": "forgotten", "syllables": ["F ER0", "G AA1", "T N"], "feature_id": "glottalization"},
+    {"text": "kitten", "syllables": ["K IH1", "T N"], "feature_id": "glottalization"},
+    {"text": "written", "syllables": ["R IH1", "T N"], "feature_id": "glottalization"},
+    {"text": "mitten", "syllables": ["M IH1", "T N"], "feature_id": "glottalization"},
+    {"text": "curtain", "syllables": ["K ER1", "T N"], "feature_id": "glottalization"}
+  ],
+  
+  "r_coloring": [
+    {"text": "car", "syllables": ["K AA1 R"], "feature_id": "r_coloring"},
+    {"text": "bird", "syllables": ["B ER1 D"], "feature_id": "r_coloring"},
+    {"text": "butter", "syllables": ["B AH1", "DX ER0"], "feature_id": "r_coloring"},
+    {"text": "park", "syllables": ["P AA1 R K"], "feature_id": "r_coloring"},
+    {"text": "lawyer", "syllables": ["L AO1", "Y ER0"], "feature_id": "r_coloring"},
+    {"text": "were", "syllables": ["W ER1"], "feature_id": "r_coloring"},
+    {"text": "her", "syllables": ["HH ER1"], "feature_id": "r_coloring"},
+    {"text": "world", "syllables": ["W ER1 L D"], "feature_id": "r_coloring"},
+    {"text": "surprise", "syllables": ["S ER0", "P R AY1 Z"], "feature_id": "r_coloring"},
+    {"text": "perfume", "syllables": ["P ER0", "F Y UW1 M"], "feature_id": "r_coloring"}
+  ],
+  
+  "aspiration": [
+    {"text": "pin", "syllables": ["P IH1 N"], "feature_id": "aspiration"},
+    {"text": "top", "syllables": ["T AA1 P"], "feature_id": "aspiration"},
+    {"text": "cat", "syllables": ["K AE1 T"], "feature_id": "aspiration"},
+    {"text": "potato", "syllables": ["P AH0", "T EY1", "T OW0"], "feature_id": "aspiration"},
+    {"text": "car", "syllables": ["K AA1 R"], "feature_id": "aspiration"},
+    {"text": "pen", "syllables": ["P EH1 N"], "feature_id": "aspiration"},
+    {"text": "tape", "syllables": ["T EY1 P"], "feature_id": "aspiration"},
+    {"text": "keep", "syllables": ["K IY1 P"], "feature_id": "aspiration"},
+    {"text": "paper", "syllables": ["P EY1", "P ER0"], "feature_id": "aspiration"},
+    {"text": "today", "syllables": ["T AH0", "D EY1"], "feature_id": "aspiration"}
+  ],
+  
+  "nasal_flap": [
+    {"text": "winter", "syllables": ["W IH1 N", "DX ER0"], "feature_id": "nasal_flap"},
+    {"text": "twenty", "syllables": ["T W EH1 N", "DX IY0"], "feature_id": "nasal_flap"},
+    {"text": "center", "syllables": ["S EH1 N", "DX ER0"], "feature_id": "nasal_flap"},
+    {"text": "international", "syllables": ["IH2 N", "DX ER0", "N AE1", "SH AH0", "N AH0 L"], "feature_id": "nasal_flap"},
+    {"text": "advantage", "syllables": ["AH0 D", "V AE1 N", "DX IH0 JH"], "feature_id": "nasal_flap"},
+    {"text": "printer", "syllables": ["P R IH1 N", "DX ER0"], "feature_id": "nasal_flap"},
+    {"text": "counter", "syllables": ["K AW1 N", "DX ER0"], "feature_id": "nasal_flap"},
+    {"text": "dental", "syllables": ["D EH1 N", "T AH0 L"], "feature_id": "nasal_flap"},
+    {"text": "rental", "syllables": ["R EH1 N", "T AH0 L"], "feature_id": "nasal_flap"},
+    {"text": "gentle", "syllables": ["JH EH1 N", "T AH0 L"], "feature_id": "nasal_flap"}
+  ],
+  
+  "intonation": [
+    {"text": "really", "syllables": ["R IY1", "L IY0"], "feature_id": "intonation"},
+    {"text": "understand", "syllables": ["AH2 N", "D ER0", "S T AE1 N D"], "feature_id": "intonation"},
+    {"text": "statement", "syllables": ["S T EY1 T", "M AH0 N T"], "feature_id": "intonation"},
+    {"text": "question", "syllables": ["K W EH1 S", "CH AH0 N"], "feature_id": "intonation"},
+    {"text": "wonderful", "syllables": ["W AH1 N", "D ER0", "F AH0 L"], "feature_id": "intonation"},
+    {"text": "seriously", "syllables": ["S IH1 R", "IY0", "AH0 S", "L IY0"], "feature_id": "intonation"}
+  ],
+  
+  "contractions": [
+    {"text": "gonna", "syllables": ["G AH1", "N AH0"], "feature_id": "contractions"},
+    {"text": "wanna", "syllables": ["W AA1", "N AH0"], "feature_id": "contractions"},
+    {"text": "gotta", "syllables": ["G AA1", "T AH0"], "feature_id": "contractions"},
+    {"text": "hafta", "syllables": ["HH AE1 F", "T AH0"], "feature_id": "contractions"},
+    {"text": "hasta", "syllables": ["HH AE1 S", "T AH0"], "feature_id": "contractions"},
+    {"text": "lemme", "syllables": ["L EH1", "M IY0"], "feature_id": "contractions"},
+    {"text": "gimme", "syllables": ["G IH1", "M IY0"], "feature_id": "contractions"},
+    {"text": "kinda", "syllables": ["K AY1 N", "D AH0"], "feature_id": "contractions"},
+    {"text": "sorta", "syllables": ["S AO1 R", "T AH0"], "feature_id": "contractions"},
+    {"text": "outta", "syllables": ["AW1", "T AH0"], "feature_id": "contractions"},
+    {"text": "dunno", "syllables": ["D AH0", "N OW1"], "feature_id": "contractions"},
+    {"text": "cause", "syllables": ["K AH0 Z"], "feature_id": "contractions"},
+    {"text": "prolly", "syllables": ["P R AA1", "L IY0"], "feature_id": "contractions"},
+    {"text": "shoulda", "syllables": ["SH UH1", "D AH0"], "feature_id": "contractions"},
+    {"text": "coulda", "syllables": ["K UH1", "D AH0"], "feature_id": "contractions"},
+    {"text": "woulda", "syllables": ["W UH1", "D AH0"], "feature_id": "contractions"}
+  ]
+}
+

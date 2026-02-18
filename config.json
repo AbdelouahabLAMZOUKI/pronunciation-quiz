@@ -1,0 +1,38 @@
+{
+  "app_name": "American Pronunciation Quiz",
+  "version": "1.0.0",
+  
+  "tts": {
+    "provider": "google",
+    "language_code": "en-US",
+    "voice_name": "en-US-Neural2-D",
+    "speaking_rate": 1.12,
+    "audio_encoding": "MP3",
+    "output_dir": "pronunciations"
+  },
+  
+  "data": {
+    "word_source": "json",
+    "word_file": "test_words.json"
+  },
+  
+  "progress": {
+    "tracking_method": "file",
+    "stats_file": "user_stats.json"
+  },
+  
+  "audio_playback": {
+    "method": "default"
+  },
+  
+  "quiz": {
+    "sentence_min": 5,
+    "sentence_max": 10
+  },
+  
+  "future_options": {
+    "word_source_alternatives": ["json", "api", "database"],
+    "tracking_alternatives": ["memory", "file", "cloud"],
+    "tts_alternatives": ["google", "azure", "aws"]
+  }
+}
