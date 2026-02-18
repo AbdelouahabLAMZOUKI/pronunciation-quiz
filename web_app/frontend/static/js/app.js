@@ -14,7 +14,7 @@ const API_BASE = (() => {
         return backendUrl;
     }
     // In development, use localhost
-    return 'http://localhost:8000/api';
+    return 'http://localhost:10000/api';
 })();
 
 const SESSION_ID = 'user_' + Date.now(); // Simple session ID for demo
